@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SEG-3125-Project-2/Home/static/css/main.8ef501db.css",
-    "main.js": "/SEG-3125-Project-2/Home/static/js/main.4be41f5f.js",
-    "static/js/453.ad6eb26e.chunk.js": "/SEG-3125-Project-2/Home/static/js/453.ad6eb26e.chunk.js",
-    "static/media/joinforumcard.png": "/SEG-3125-Project-2/Home/static/media/joinforumcard.19f70a39b2aea2e04c83.png",
-    "static/media/welcome_message.png": "/SEG-3125-Project-2/Home/static/media/welcome_message.c2c0ae238225bf91461d.png",
-    "static/media/lasagna.png": "/SEG-3125-Project-2/Home/static/media/lasagna.90e611d3190721ca08ae.png",
-    "static/media/veggiestirfry.png": "/SEG-3125-Project-2/Home/static/media/veggiestirfry.26ff4365149668bab618.png",
-    "static/media/chocolatecake.png": "/SEG-3125-Project-2/Home/static/media/chocolatecake.836dc52b786e490aece1.png",
-    "static/media/alfredo.png": "/SEG-3125-Project-2/Home/static/media/alfredo.b7d20edaa2adaff998ef.png",
-    "static/media/cardRecipespic.jpg": "/SEG-3125-Project-2/Home/static/media/cardRecipespic.94f7445a0c61aafd26ce.jpg",
-    "index.html": "/SEG-3125-Project-2/Home/index.html",
-    "main.8ef501db.css.map": "/SEG-3125-Project-2/Home/static/css/main.8ef501db.css.map",
-    "main.4be41f5f.js.map": "/SEG-3125-Project-2/Home/static/js/main.4be41f5f.js.map",
-    "453.ad6eb26e.chunk.js.map": "/SEG-3125-Project-2/Home/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/SEG-3125-Project-2/static/css/main.8ef501db.css",
+    "main.js": "/SEG-3125-Project-2/static/js/main.c3ccb648.js",
+    "static/js/453.ad6eb26e.chunk.js": "/SEG-3125-Project-2/static/js/453.ad6eb26e.chunk.js",
+    "static/media/joinforumcard.png": "/SEG-3125-Project-2/static/media/joinforumcard.19f70a39b2aea2e04c83.png",
+    "static/media/welcome_message.png": "/SEG-3125-Project-2/static/media/welcome_message.c2c0ae238225bf91461d.png",
+    "static/media/lasagna.png": "/SEG-3125-Project-2/static/media/lasagna.90e611d3190721ca08ae.png",
+    "static/media/veggiestirfry.png": "/SEG-3125-Project-2/static/media/veggiestirfry.26ff4365149668bab618.png",
+    "static/media/chocolatecake.png": "/SEG-3125-Project-2/static/media/chocolatecake.836dc52b786e490aece1.png",
+    "static/media/alfredo.png": "/SEG-3125-Project-2/static/media/alfredo.b7d20edaa2adaff998ef.png",
+    "static/media/cardRecipespic.jpg": "/SEG-3125-Project-2/static/media/cardRecipespic.94f7445a0c61aafd26ce.jpg",
+    "index.html": "/SEG-3125-Project-2/index.html",
+    "main.8ef501db.css.map": "/SEG-3125-Project-2/static/css/main.8ef501db.css.map",
+    "main.c3ccb648.js.map": "/SEG-3125-Project-2/static/js/main.c3ccb648.js.map",
+    "453.ad6eb26e.chunk.js.map": "/SEG-3125-Project-2/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ef501db.css",
-    "static/js/main.4be41f5f.js"
+    "static/js/main.c3ccb648.js"
   ]
 }
